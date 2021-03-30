@@ -1,0 +1,38 @@
+#semaforo{
+    border: 3px solid black;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+}
+.luces{
+    border-radius: 10px;
+    width: 20px;
+    height: 50px;
+}
+.red1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+.green1{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.yellow1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+.init1{
+    background-color: black;
+    text-align: center;
+    color: black;
+}
+#btn1 {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    cursor: pointer;
+    text-align: center;
+}
